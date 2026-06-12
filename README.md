@@ -1,6 +1,6 @@
-# 🧠 AetherMind Tokenizer Lab: Foundations to 2077 Neural Architecture
+# 🧠 NeuralPiece: Adaptive Byte-Level Tokenizer
 
-Welcome to the **AetherMind Tokenizer Lab**. This repository contains an experimental environment and a comprehensive, multi-layered technical guide designed to demystify LLM tokenization—from its absolute basics to the cutting-edge concepts of "token-free" neural chunking architectures.
+Welcome to the **NeuralPiece Laboratory**. This repository contains an experimental environment and a comprehensive, multi-layered technical guide designed to demystify LLM tokenization—from its absolute basics to the cutting-edge concepts of "token-free" neural chunking architectures.
 
 ---
 
