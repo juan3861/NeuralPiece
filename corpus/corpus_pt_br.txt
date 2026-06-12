@@ -1,0 +1,141 @@
+O gato bebeu leite na cozinha enquanto o cachorro dormia no sofá.
+Python é uma linguagem de programação interpretada e de alto nível.
+A inteligência artificial está transformando a forma como vivemos e trabalhamos.
+Eu gosto de estudar machine learning no meu tempo livre.
+O Brasil é o maior país da América do Sul e tem uma rica diversidade cultural.
+JavaScript roda no navegador e também no servidor com Node.js.
+Uma LLM aprende padrões estatísticos a partir de grandes volumes de texto.
+Tokenização é o processo de transformar texto em unidades numéricas chamadas tokens.
+O cérebro humano possui aproximadamente 86 bilhões de neurônios interconectados.
+Redes neurais artificiais são inspiradas na estrutura biológica do cérebro.
+O mecanismo de atenção permite que o modelo foque nas partes mais relevantes da entrada.
+Transformers revolucionaram o processamento de linguagem natural em 2017.
+O artigo Attention Is All You Need introduziu a arquitetura Transformer.
+Embeddings são representações vetoriais densas que capturam relações semânticas.
+A similaridade cosseno mede o ângulo entre dois vetores no espaço semântico.
+Quantização reduz a precisão dos parâmetros de 32 bits para 8 ou 4 bits.
+Fine-tuning é o processo de ajustar um modelo pré-treinado para uma tarefa específica.
+O backpropagation calcula os gradientes da função de perda em relação aos pesos.
+Gradient descent atualiza os pesos na direção que minimiza a função de perda.
+O SentencePiece é um framework de tokenização que trata texto como sequência de bytes.
+O algoritmo Unigram Language Model constrói vocabulário de cima para baixo por poda.
+BPE junta pares de caracteres frequentes de forma iterativa e gulosa.
+WordPiece segmenta palavras em subunidades usando critério de likelihood.
+Programação é uma habilidade essencial no mundo digital contemporâneo.
+O programador escreveu um código elegante em Rust para resolver o problema.
+Aprendizado de máquina supervisionado usa dados rotulados para treinar modelos.
+Redes neurais convolucionais são amplamente usadas em visão computacional.
+O processamento de linguagem natural permite que máquinas entendam texto humano.
+Bancos vetoriais armazenam embeddings para busca semântica eficiente.
+RAG combina recuperação de informação com geração de texto em LLMs.
+O modelo GPT usa uma arquitetura decoder-only baseada em Transformers.
+BERT usa uma arquitetura encoder-only com masked language modeling.
+T5 trata todas as tarefas de NLP como problemas de texto para texto.
+O Llama da Meta usa SentencePiece com Unigram Language Model para tokenização.
+Mixture of Experts divide o modelo em especialistas que são ativados seletivamente.
+A função softmax converte logits em probabilidades que somam um.
+Cross-entropy mede a diferença entre a distribuição prevista e a real.
+Perplexidade é uma métrica que avalia a qualidade de modelos de linguagem.
+O otimizador Adam combina momentum com taxas de aprendizado adaptativas.
+Normalização de camada estabiliza o treinamento de redes neurais profundas.
+Conexões residuais permitem que o gradiente flua mais facilmente através das camadas.
+Feed forward networks processam cada token independentemente após a atenção.
+Multi-head attention permite que o modelo preste atenção a diferentes aspectos simultaneamente.
+Positional encoding informa ao modelo a posição de cada token na sequência.
+RoPE usa rotações vetoriais para codificar posições relativas de forma eficiente.
+A janela de contexto define quantos tokens o modelo pode processar de uma vez.
+Modelos com 8 bilhões de parâmetros bem treinados podem superar modelos de 32 bilhões.
+A qualidade dos dados de treinamento é mais importante que a quantidade de parâmetros.
+Inferência é o processo de usar um modelo treinado para fazer previsões.
+Temperature controla a aleatoriedade da geração de texto em LLMs.
+Top-k sampling limita a escolha do próximo token aos k mais prováveis.
+O aprendizado por reforço com feedback humano alinha modelos com preferências humanas.
+Distilação de conhecimento transfere capacidades de um modelo grande para um pequeno.
+Arquiteturas encoder-decoder são usadas em tradução automática e sumarização.
+O vocabulário do tokenizer é congelado após o treinamento e não evolui.
+Palavras novas como COVID são fragmentadas em subwords estranhas por tokenizers antigos.
+Modelos byte-level como ByT5 operam diretamente sobre bytes UTF-8 sem tokenizer.
+MegaByte agrupa bytes em patches e usa Transformers em múltiplas escalas.
+CANINE processa code points Unicode diretamente usando convoluções strided.
+A hipótese distribucional afirma que palavras em contextos similares têm significados similares.
+Matrizes treináveis transformam embeddings em queries keys e values.
+Self-attention permite que cada token veja todos os outros tokens do contexto.
+A fórmula da atenção é softmax de QK transposto dividido por raiz de d vezes V.
+Cada bloco Transformer contém self-attention seguida de feed forward network.
+Modelos profundos com muitas camadas capturam dependências mais complexas.
+O espaço semântico é o mapa matemático onde todos os embeddings vivem.
+Palavras usadas em contextos semelhantes acabam com vetores próximos.
+A matriz de embeddings é uma tabela que liga cada token ao seu vetor inicial.
+Gatos são animais domésticos muito populares em todo o mundo.
+Cachorros são conhecidos como os melhores amigos do ser humano.
+Aviões voam a altitudes de até 12 mil metros acima do nível do mar.
+O café brasileiro é reconhecido mundialmente pela sua qualidade.
+A Amazônia é a maior floresta tropical do planeta e abriga milhões de espécies.
+São Paulo é a cidade mais populosa do Brasil com mais de 12 milhões de habitantes.
+O carnaval é uma das festas mais famosas da cultura brasileira.
+Futebol é o esporte mais popular do Brasil e une pessoas de todas as classes sociais.
+A música brasileira inclui gêneros como samba bossa nova e MPB.
+O Rio de Janeiro é conhecido pelas praias de Copacabana e Ipanema.
+Inteligência artificial generativa cria conteúdo novo a partir de padrões aprendidos.
+Modelos de difusão geram imagens de alta qualidade a partir de ruído gaussiano.
+Redes adversariais generativas colocam dois modelos em competição para gerar dados.
+Aprendizado não supervisionado descobre padrões em dados sem rótulos.
+Clustering agrupa dados similares usando métricas de distância.
+Árvores de decisão dividem dados recursivamente com base em features.
+Random forests combinam múltiplas árvores de decisão para maior robustez.
+Gradient boosting constrói modelos sequencialmente corrigindo erros anteriores.
+Validação cruzada avalia a generalização do modelo em diferentes partições dos dados.
+Overfitting ocorre quando o modelo memoriza os dados de treino ao invés de generalizar.
+Regularização L1 e L2 penalizam pesos grandes para evitar overfitting.
+Dropout desativa neurônios aleatoriamente durante o treino como forma de regularização.
+Batch normalization normaliza as ativações dentro de cada mini batch.
+Learning rate scheduler ajusta a taxa de aprendizado durante o treinamento.
+Warmup aumenta gradualmente a taxa de aprendizado no início do treinamento.
+O paradoxo de Fermi questiona por que não encontramos evidências de vida extraterrestre.
+A teoria da relatividade de Einstein mudou nossa compreensão do espaço e do tempo.
+Computação quântica usa qubits que podem estar em superposição de estados.
+Blockchain é uma tecnologia de registro distribuído e imutável.
+Criptografia protege informações usando transformações matemáticas complexas.
+Sistemas operacionais gerenciam hardware e fornecem abstrações para software.
+Compiladores traduzem código de alto nível para linguagem de máquina.
+Interpretadores executam código linha por linha sem compilação prévia.
+Containers isolam aplicações e suas dependências em ambientes portáteis.
+Kubernetes orquestra containers em clusters distribuídos.
+APIs REST usam HTTP para comunicação entre sistemas de forma padronizada.
+Bancos de dados relacionais armazenam dados em tabelas com relações definidas.
+NoSQL oferece modelos flexíveis como documentos grafos e chave-valor.
+Git é um sistema de controle de versão distribuído criado por Linus Torvalds.
+DevOps integra desenvolvimento e operações para entregas mais rápidas e confiáveis.
+Testes automatizados verificam se o código funciona corretamente de forma repetível.
+Microsserviços dividem aplicações em serviços independentes e escaláveis.
+Event sourcing registra todas as mudanças de estado como uma sequência de eventos.
+CQRS separa operações de leitura e escrita para otimizar cada uma independentemente.
+Domain driven design modela software alinhado com o domínio do negócio.
+Clean architecture organiza código em camadas com dependências apontando para dentro.
+SOLID são cinco princípios de design orientado a objetos para código manutenível.
+Design patterns são soluções reutilizáveis para problemas recorrentes em software.
+Refactoring melhora a estrutura interna do código sem alterar seu comportamento externo.
+Pair programming coloca dois programadores trabalhando juntos no mesmo código.
+Code review avalia código escrito por outros para garantir qualidade e compartilhar conhecimento.
+Integração contínua automatiza a compilação e testes a cada commit.
+Deploy contínuo automatiza a entrega de software em produção.
+Monitoramento observa sistemas em produção para detectar problemas rapidamente.
+Logs registram eventos do sistema para diagnóstico e auditoria.
+Métricas quantificam o comportamento do sistema como latência e throughput.
+Alertas notificam equipes quando métricas ultrapassam limiares definidos.
+Escalabilidade horizontal adiciona mais máquinas para aumentar capacidade.
+Escalabilidade vertical aumenta os recursos de uma máquina existente.
+Cache armazena dados frequentemente acessados para reduzir latência.
+CDN distribui conteúdo geograficamente para reduzir tempo de carregamento.
+Load balancer distribui tráfego entre múltiplos servidores.
+Circuit breaker interrompe chamadas a serviços instáveis para evitar cascatas de falha.
+O universo observável tem aproximadamente 93 bilhões de anos-luz de diâmetro.
+Buracos negros são regiões do espaço-tempo onde a gravidade é tão forte que nada escapa.
+Estrelas de nêutrons são os objetos mais densos conhecidos no universo.
+A radiação cósmica de fundo é o eco do Big Bang observável em micro-ondas.
+Matéria escura compõe cerca de 27 por cento do universo mas não emite luz.
+Energia escura acelera a expansão do universo e compõe cerca de 68 por cento dele.
+Ondas gravitacionais são perturbações no tecido do espaço-tempo.
+O paradoxo da informação do buraco negro questiona se informação é destruída.
+Emaranhamento quântico conecta partículas de forma que medir uma afeta a outra instantaneamente.
+O princípio da incerteza de Heisenberg limita a precisão simultânea de posição e momento.

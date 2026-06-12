@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Models
+models/
+neural_chunker/
+
+# Ignore results unless we want them as reference (we might want them as reference)
+# results/
